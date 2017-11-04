@@ -29,3 +29,52 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - Changed Help Wanted link to display content
 - Updated changelog.md
+
+## [1.0.5] - 2017-10-19 (Benjamin Wang)
+
+- Fixed bootstrap in template_secondary
+- Implemented Maintainence
+- Updated changelog.md
+
+## [1.0.6] - 2017-10-19 (Judy Zhu)
+
+- Implemented Pagination
+- Updated changelog.md
+
+## [1.0.7] - 2017-10-19 (Benjamin Wang)
+
+- Added roles
+- Updated changelog.md
+
+## [1.0.8] - 2017-10-19 (Judy Zhu)
+
+- Added form for work page
+- Updated changelog.md
+
+## [1.0.9] - 2017-10-19 (Benjamin Wang)
+
+- Implemented role-specific maintenance
+- Updated changelog.md
+
+## [1.0.10] - 2017-10-19 (Judy Zhu)
+
+- Edited Task Item maintenance final part
+- Updated changelog.md
+
+## [1.0.11] - 2017-10-19 (Benjamin Wang)
+
+- Polished item maintenance
+- Updated changelog.md
+
+## [1.0.12] - 2017-11-04 (Judy Zhu)
+
+- Added model: Entity.php, Task.php 
+- Added unit test: tests folder (TaskTest.php, TaskListTest.php, Bootstrap.php)
+- Added phpunit.xml.dist
+- Added .travis.yml
+- Added composer
+- Updated changelog.md
+
+## [1.0.13] - 2017-11-04 (Judy Zhu)
+
+- Updated .gitignore 
